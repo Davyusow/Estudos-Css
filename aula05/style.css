@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+}
+
+#caixa1 {
+  border: 5px solid;
+  width: 500px;
+  height: 300px;
+  font-size: 22px;
+  background: peachpuff;
+  padding: 10px;
+
+  margin: auto;
+
+}
+
+#caixa2 {
+  border: 5px solid;
+  width: 500px;
+  height: 300px;
+  font-size: 22px;
+  background: lightyellow;
+  padding: 50px;
+
+  margin-left: 50%;
+}
