@@ -9,3 +9,12 @@ h1 {
 p {
   color: white;
 }
+#p1{
+  color: red;
+}
+.impar{
+  color: tomato;
+}
+.par{
+  color: aquamarine;
+}
