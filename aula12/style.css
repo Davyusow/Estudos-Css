@@ -1,0 +1,23 @@
+#caixa1{
+  width: 400px;
+  height: 250px;
+  background-color: red;
+  font-size: 225px;
+  text-align: center;
+  
+  /*
+  animation: arrastada;
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+  animation-delay: 1s;
+  animation-timing-function: linear;
+  animation-duration: 2s;
+  */
+
+  animation: 3s linear 1s infinite running arrastada;
+}
+
+@keyframes arrastada{
+  from{margin-left: 100%;}
+  to{margin-left: 0%;}
+}
